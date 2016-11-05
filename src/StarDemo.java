@@ -33,26 +33,5 @@ public class StarDemo {
             System.out.println("");
 
         }
-          /*System.out.println("         *       ");
-            System.out.println("        ***      ");
-            System.out.println("       *****     ");
-            System.out.println("*******************");
-            System.out.println("  ***************  ");
-            System.out.println("    ***********    ");
-            System.out.println("   *****   *****    ");
-            System.out.println("  ***         ***");
-            System.out.println(" *               *");*/
-
-              /*     *
-                    ***
-                   *****
-            *******************
-              ***************
-                ***********
-                ***** *****
-                ****   ****
-               ***       ***
-               *           **/
-
     }
 }
