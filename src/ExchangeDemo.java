@@ -9,10 +9,6 @@ public class ExchangeDemo {
         System.out.println("请输入一个小写字母");
         Scanner scanner= new Scanner(System.in);
         String word=scanner.next();
-        /*char[] array=word.toCharArray();
-
-        num=(int)array[];
-        if( > 90 &&  < 65)*/
         System.out.println("将"+word+"转化为大写字母:  "+word.toUpperCase());
 
         System.out.println("请输入一个大写字母");
